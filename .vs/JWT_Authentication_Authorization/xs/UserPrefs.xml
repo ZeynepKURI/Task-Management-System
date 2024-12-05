@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5BAFA14E-D107-4032-85D8-46E9E8476800}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWT_Authentication_Authorization/appsettings.json">
+    <Files>
+      <File FileName="JWT_Authentication_Authorization/Models/User.cs" Line="13" Column="1" />
+      <File FileName="JWT_Authentication_Authorization/Models/Role.cs" Line="8" Column="40" />
+      <File FileName="JWT_Authentication_Authorization/Models/UserRole.cs" Line="9" Column="1" />
+      <File FileName="JWT_Authentication_Authorization/Models/Employee.cs" Line="9" Column="39" />
+      <File FileName="JWT_Authentication_Authorization/Interfaces/IAuthService.cs" Line="14" Column="2" />
+      <File FileName="JWT_Authentication_Authorization/Interfaces/IEmployeeService.cs" Line="9" Column="50" />
+      <File FileName="JWT_Authentication_Authorization/Program.cs" Line="22" Column="1" />
+      <File FileName="JWT_Authentication_Authorization/appsettings.json" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWT_Authentication_Authorization" expanded="True">
+            <Node name="JWT_Authentication_Authorization">
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JWT__Authentication__Authorization FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
