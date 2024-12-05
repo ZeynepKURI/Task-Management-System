@@ -3,24 +3,27 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="JWT_Authentication_Authorization/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWT_Authentication_Authorization/Migrations/20241205140409_InitialCreate.cs">
     <Files>
-      <File FileName="JWT_Authentication_Authorization/Models/User.cs" Line="13" Column="1" />
-      <File FileName="JWT_Authentication_Authorization/Models/Role.cs" Line="8" Column="40" />
-      <File FileName="JWT_Authentication_Authorization/Models/UserRole.cs" Line="9" Column="1" />
-      <File FileName="JWT_Authentication_Authorization/Models/Employee.cs" Line="9" Column="39" />
-      <File FileName="JWT_Authentication_Authorization/Interfaces/IAuthService.cs" Line="14" Column="2" />
-      <File FileName="JWT_Authentication_Authorization/Interfaces/IEmployeeService.cs" Line="9" Column="50" />
-      <File FileName="JWT_Authentication_Authorization/Program.cs" Line="22" Column="1" />
+      <File FileName="JWT_Authentication_Authorization/Models/User.cs" />
+      <File FileName="JWT_Authentication_Authorization/Models/Role.cs" />
+      <File FileName="JWT_Authentication_Authorization/Models/UserRole.cs" />
+      <File FileName="JWT_Authentication_Authorization/Models/Employee.cs" />
+      <File FileName="JWT_Authentication_Authorization/Interfaces/IAuthService.cs" />
+      <File FileName="JWT_Authentication_Authorization/Interfaces/IEmployeeService.cs" />
+      <File FileName="JWT_Authentication_Authorization/Program.cs" />
       <File FileName="JWT_Authentication_Authorization/appsettings.json" Line="22" Column="1" />
+      <File FileName="JWT_Authentication_Authorization/Migrations/20241205140409_InitialCreate.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="JWT_Authentication_Authorization" expanded="True">
-            <Node name="JWT_Authentication_Authorization">
-              <Node name="Services" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
+            <Node name="JWT_Authentication_Authorization" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="20241205140409_InitialCreate.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>

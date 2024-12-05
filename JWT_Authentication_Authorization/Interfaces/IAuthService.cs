@@ -9,6 +9,8 @@ namespace JWT_Authentication_Authorization.Interfaces
 
 		string Login(LoginRequest loginRequest);
 
+		Role AddRole(Role role);
+		bool AssignRoleToUser(AddUserRole obj);
 }
 
 }
